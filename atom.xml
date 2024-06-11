@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://dongyu-hao.github.io</id>
+    <title>Dong Yuhao</title>
+    <updated>2024-06-11T01:59:47.143Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://dongyu-hao.github.io"/>
+    <link rel="self" href="https://dongyu-hao.github.io/atom.xml"/>
+    <subtitle>有关于探索与思考的一切</subtitle>
+    <logo>https://dongyu-hao.github.io/images/avatar.png</logo>
+    <icon>https://dongyu-hao.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2024, Dong Yuhao</rights>
+</feed>
